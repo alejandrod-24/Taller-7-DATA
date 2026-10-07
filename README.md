@@ -49,8 +49,12 @@ El proyecto aborda el problema desde múltiples frentes metodológicos:
 ## 📊 5. Fuentes y Referencias Técnicas Oficiales
 
 * **[1] Blog de Ingeniería de Uber:** *[Michelangelo: Uber’s Machine Learning Platform](https://www.uber.com/us/en/blog/michelangelo-machine-learning-platform/)*. Detalles exhaustivos sobre el feature store y despliegue distribuido de predicciones.
+  Del Balso, M. & Hermann, J. (2017). Meet Michelangelo: Uber’s Machine Learning Platform. *Uber Blog*. https://www.uber.com/us/en/blog/michelangelo-machine-learning-platform/
 * **[2] Repositorio de Código Abierto Orbit (Uber):** *[Uber Orbit GitHub Package](https://github.com/uber/orbit)*. Marco probabilístico de series de tiempo para estimación de demanda.
+  Chen, H. et al. (2026). Orbit. *Github*. https://github.com/uber/orbit
 * **[3] Documentación de Indexación Espacial H3:** *[H3: Uber’s Hexagonal Hierarchical Spatial Index](https://h3geo.org/)*. Documentación oficial del sistema de celdas geográficas.
+  Uber Technologies. (2026). H3 indexes points and shapes into a hexagonal grid. *H3*. https://h3geo.org/
 * **[4] Proyectos Comunitarios de Referencia (Dataset de Código Abierto):** Repositorios públicos de análisis basados en los datos abiertos de viajes de Uber en la ciudad de Nueva York, utilizados globalmente para validar algoritmos predictivos (*[Himanshu-1703/uber-demand-prediction](https://github.com/Himanshu-1703/uber-demand-prediction)* y *[MohammadRehaanAli/Uber-Trip-Analysis](https://github.com/MohammadRehaanAli/Uber-Trip-Analysis-Using-Machine-learning)* ).
 * **Plantilla del README:** (https://gist.github.com/Villanuevand/6386899f70346d4580c723232524d35a#file-readme-espanol-md)
+  Rehaan, M. (2025). Uber-Trip-Analysis-Using-Machine-learning. *Github*. https://github.com/MohammadRehaanAli/Uber-Trip-Analysis-Using-Machine-learning
   
