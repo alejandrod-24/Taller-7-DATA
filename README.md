@@ -55,6 +55,8 @@ El proyecto aborda el problema desde múltiples frentes metodológicos:
 * **[3] Documentación de Indexación Espacial H3:** *[H3: Uber’s Hexagonal Hierarchical Spatial Index](https://h3geo.org/)*. Documentación oficial del sistema de celdas geográficas.
   Uber Technologies. (2026). H3 indexes points and shapes into a hexagonal grid. *H3*. https://h3geo.org/
 * **[4] Proyectos Comunitarios de Referencia (Dataset de Código Abierto):** Repositorios públicos de análisis basados en los datos abiertos de viajes de Uber en la ciudad de Nueva York, utilizados globalmente para validar algoritmos predictivos (*[Himanshu-1703/uber-demand-prediction](https://github.com/Himanshu-1703/uber-demand-prediction)* y *[MohammadRehaanAli/Uber-Trip-Analysis](https://github.com/MohammadRehaanAli/Uber-Trip-Analysis-Using-Machine-learning)* ).
+    Rehaan, M. (2025). Uber-Trip-Analysis-Using-Machine-learning. *Github*. https://github.com/MohammadRehaanAli/Uber-Trip-Analysis-Using-Machine-learning
 * **Plantilla del README:** (https://gist.github.com/Villanuevand/6386899f70346d4580c723232524d35a#file-readme-espanol-md)
-  Rehaan, M. (2025). Uber-Trip-Analysis-Using-Machine-learning. *Github*. https://github.com/MohammadRehaanAli/Uber-Trip-Analysis-Using-Machine-learning
+  Villanueva, A. (2022). README-español. *github*. https://gist.github.com/Villanuevand/6386899f70346d4580c723232524d35a
+
   
