@@ -52,3 +52,5 @@ El proyecto aborda el problema desde múltiples frentes metodológicos:
 * **[2] Repositorio de Código Abierto Orbit (Uber):** *[Uber Orbit GitHub Package](https://github.com/uber/orbit)*. Marco probabilístico de series de tiempo para estimación de demanda.
 * **[3] Documentación de Indexación Espacial H3:** *[H3: Uber’s Hexagonal Hierarchical Spatial Index](https://h3geo.org/)*. Documentación oficial del sistema de celdas geográficas.
 * **[4] Proyectos Comunitarios de Referencia (Dataset de Código Abierto):** Repositorios públicos de análisis basados en los datos abiertos de viajes de Uber en la ciudad de Nueva York, utilizados globalmente para validar algoritmos predictivos (*[Himanshu-1703/uber-demand-prediction](https://github.com/Himanshu-1703/uber-demand-prediction)* y *[MohammadRehaanAli/Uber-Trip-Analysis](https://github.com/MohammadRehaanAli/Uber-Trip-Analysis-Using-Machine-learning)* ).
+* **Plantilla README:** (https://gist.github.com/Villanuevand/6386899f70346d4580c723232524d35a#file-readme-espanol-md)
+  
